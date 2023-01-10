@@ -1,0 +1,186 @@
+body,
+html {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: "Blanka" !important;
+  color: rgb(254, 79, 164);
+  -webkit-text-stroke: 2px rgb(254, 79, 164);
+  text-shadow: -2px 2px #ffffff;
+  letter-spacing: 30px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: rgb(27, 35, 70);
+  font-family: "futura";
+  font-weight: 500;
+  font-size: 40px;
+  padding: 5px;
+}
+h3 {
+  color: white;
+}
+
+.bg-image {
+  margin-top: 0rem;
+  /* The image used */
+  background-image: url("../images/hero3.jpeg");
+
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(3px);
+
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Position text in the middle of the page/image */
+.bg-text {
+  background-color: rgb(255, 255, 255); /* Fallback color */
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.611
+  ); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 4px solid rgb(255, 255, 255);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+
+.text {
+  text-align: right;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px 40px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 20px 40px;
+  margin: 0 auto;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  max-width: 150px;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.turquoise1 {
+  border-bottom: 250px solid rgb(12, 140, 160);
+}
+.turquoise2 {
+  border-right: 10px solid rgb(12, 140, 160);
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.yellow {
+  border-bottom: 355px solid rgb(250, 200, 65);
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.pink1 {
+  border-bottom: 100px solid rgb(254, 79, 164);
+}
+
+.center {
+  margin-top: 30px;
+}
+
+.img-center {
+  height: auto;
+  border-bottom: 50px solid rgb(27, 35, 70);
+}
+
+p {
+  padding: 0 10px;
+}
+
+.w3-pink1 {
+  background-color: rgb(254, 79, 164);
+}
+.bottom button {
+  color: white;
+}
+
+.row-images {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column-images {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column-images img {
+  margin-top: 8px;
+  vertical-align: middle;
+  max-width: 40%;
+  margin: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  .bg-text {
+    top: 57%;
+    left: 50%;
+    padding: 20px;
+    width: 80%;
+  }
+  h1 {
+    font-size: 2.5rem;
+  }
+  .text h2 {
+    font-size: 1.5rem;
+  }
+.button-center{
+  padding:.4rem .8rem ;
+}
+
+  .img {
+    width: 95%;
+    height: auto;
+  }
+  .yellow {
+    border-bottom: 355px solid rgb(250, 200, 65);
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+  .column-images img {
+    max-width: 100%;
+    margin: 10px;
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/emilie-pons/static/css/main.5344fd6e.css",
+    "main.js": "/emilie-pons/static/js/main.73f095ef.js",
+    "static/media/Hero.jpeg": "/emilie-pons/static/media/Hero.9fd784780263516de16f.jpeg",
+    "static/media/pro3.jpg": "/emilie-pons/static/media/pro3.a286733e1842a28fdd81.jpg",
+    "static/media/pro2.jpeg": "/emilie-pons/static/media/pro2.bb84b32b4d4b3cca8426.jpeg",
+    "static/media/pro1.jpeg": "/emilie-pons/static/media/pro1.4c792fc70476dfe62c8f.jpeg",
+    "static/media/hero3.jpeg": "/emilie-pons/static/media/hero3.a15745207683e0ebd5e8.jpeg",
+    "static/media/jt.png": "/emilie-pons/static/media/jt.3c93bfc428d1797b2fbc.png",
+    "static/media/pri.png": "/emilie-pons/static/media/pri.33c5eef9b2d9596561d0.png",
+    "static/media/nycjr.png": "/emilie-pons/static/media/nycjr.d2f5930a063d71852d66.png",
+    "static/media/hpe.png": "/emilie-pons/static/media/hpe.c1d544b2000d67d25749.png",
+    "static/media/pro4.jpeg": "/emilie-pons/static/media/pro4.c2c8d329f6263b71f9e3.jpeg",
+    "static/media/aatj.png": "/emilie-pons/static/media/aatj.99ccf9416194e6270133.png",
+    "static/media/EP.jpg": "/emilie-pons/static/media/EP.397d3e9efb3de2736363.jpg",
+    "static/media/cmm.png": "/emilie-pons/static/media/cmm.fe3f5e5162cb94d5d073.png",
+    "static/media/variety.png": "/emilie-pons/static/media/variety.63b460bf8685e1270592.png",
+    "static/media/dw.png": "/emilie-pons/static/media/dw.95ac18a8aa687dbe0a37.png",
+    "static/media/mhh.png": "/emilie-pons/static/media/mhh.a25bc89e8e9159383d13.png",
+    "static/media/IFC.png": "/emilie-pons/static/media/IFC.228af3223c16985f4700.png",
+    "static/media/ttt.png": "/emilie-pons/static/media/ttt.71c21f98cfc7a40d242c.png",
+    "static/media/TRT_World.svg": "/emilie-pons/static/media/TRT_World.7a1c678e7c88b5198cffd6fd68404808.svg",
+    "index.html": "/emilie-pons/index.html",
+    "main.5344fd6e.css.map": "/emilie-pons/static/css/main.5344fd6e.css.map",
+    "main.73f095ef.js.map": "/emilie-pons/static/js/main.73f095ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5344fd6e.css",
+    "static/js/main.73f095ef.js"
+  ]
+}

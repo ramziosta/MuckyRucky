@@ -1,0 +1,22 @@
+.logo {
+    cursor: pointer;
+    text-decoration: none;
+    letter-spacing:10px;
+
+  }
+  .logo:hover,
+  .nav-link:hover
+  {
+    transition: all 0.3s ease-out;
+    border-bottom:8px solid rgb(250, 200,65);
+    font-weight: bold;
+    border-radius:0px;
+  } 
+  
+  .nav-pills{
+    padding-left:0px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    
+  }

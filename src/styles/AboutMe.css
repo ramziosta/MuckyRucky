@@ -1,0 +1,30 @@
+body{
+background-color: rgb(240,240,240);
+
+}
+
+.w3-row-padding img {margin-bottom: 12px}
+
+.turquoise{
+  border-left: 15px solid  rgb(12,140,160);
+
+}
+
+.pink{
+ border-left:10px solid rgb(254, 79, 164);
+}
+.about{
+  margin-left:30px;
+}
+
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('../images/EP.jpg');
+  min-height: 100%;
+  border-left:5px solid rgb(250,200,65);
+  margin:0px 0px;
+  height:100vh;
+
+}
