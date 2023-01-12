@@ -39,7 +39,7 @@ const Login = () => {
         <br />
         <p>
           {" "}
-          Log in to your account. Share my content with your friends and family.
+          Log in to your account. Share our content with your friends and family.
           Comment on the the blogs and posts.
         </p>
       </div>

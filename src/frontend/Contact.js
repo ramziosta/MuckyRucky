@@ -102,7 +102,7 @@ export const Contact = () => {
             >
               {" "}
             </a>{" "}
-            Email: emilipons@gmail.com
+            Email: emiliJessie@gmail.com
           </p>
         </div>
 

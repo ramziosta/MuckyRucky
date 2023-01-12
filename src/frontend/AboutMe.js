@@ -25,7 +25,7 @@ function AboutMe() {
           id="home"
         >
           <h1 className="w3-jumbo">
-            <b>Emilie Pons</b>
+            <b>Emilie & Jessie</b>
           </h1>
           <p
             style={{
@@ -34,7 +34,7 @@ function AboutMe() {
               fontSize: "1.5rem",
             }}
           >
-            Journalist and Content Creator
+            Journalists and Content Creators
           </p>
           <img
             src={ccc}
@@ -57,12 +57,12 @@ function AboutMe() {
               borderBottomLeftRadius: "8px",
             }}
           >
-            Contact Me
+            Contact Us
           </Link>
         </header>
 
         <div className="w3-padding-32 w3-content" id="portfolio">
-          <h1 style={{ color: "rgb(254, 79, 164)", marginLeft:"30px" }}>About Me</h1>
+          <h1 style={{ color: "rgb(254, 79, 164)", marginLeft:"30px" }}>About Us</h1>
           <hr className="w3-opacity" />
         </div>
 
@@ -74,7 +74,7 @@ function AboutMe() {
           <hr className="w3-opacity" />
           <p>
             {" "}
-            I am a digital journalist and an audio producer. My stories have
+            I am a digital journalist and an audio producer. our stories have
             been featured on The World (on PRI), TRT World, NPR and in
             JazzTimes. I have also filed for AFP and DownBeat magazine.
           </p>
@@ -92,7 +92,7 @@ function AboutMe() {
             I speak English, Spanish and French and I am learning (slowly!)
             Arabic and Turkish.{" "}
           </p>
-          <h2 className="w3-padding-16">My Work</h2>
+          <h2 className="w3-padding-16">our Work</h2>
           <br />
           <p className="w3-wide">Music.Culture.Politics</p>
           <hr />
@@ -103,9 +103,9 @@ function AboutMe() {
             currently work for PRI and TRT World.
           </p>
           <p>
-            My work is at the intersection of culture and politics, with stories
+            our work is at the intersection of culture and politics, with stories
             such as "Kurdish Music as Protest, for Radio DW, which features
-            Kurdish musicians in Turkey, or my Chamber Music magazine data story
+            Kurdish musicians in Turkey, or our Chamber Music magazine data story
             entitled "An Invisible Wall." which describes the impact of Trump’s
             immigration policies on artistic diversity in the US.
           </p>
@@ -159,7 +159,7 @@ function AboutMe() {
             {" "}
             I covered the Guadalajara jazz festival and the Riviera Maya Jazz
             Festival. I have also conducted tons of interviews and done archival
-            work (for my Chavela book) in Mexico City.
+            work (for our Chavela book) in Mexico City.
           </p>
 
           <br />
@@ -204,7 +204,7 @@ function AboutMe() {
           <hr />
           <br />
           <p>
-            I did a couple of interviews in Spain for my book. It was in Madrid
+            I did a couple of interviews in Spain for our book. It was in Madrid
             and in Cádiz.{" "}
           </p>
           <br />

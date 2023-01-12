@@ -28,7 +28,7 @@ export default function Form() {
 
   const [id, setId] = useState(38);
   const [title, setTitle] = useState("Article Title");
-  const [author, setAuthor] = useState("Emilie Pons");
+  const [author, setAuthor] = useState("Emilie Jessie");
   const [publicationDate, setPublicationDate] = useState("01/01/2020");
   const [publisher, setPublisher] = useState("NPR");
   const [description, setDescription] = useState(dummyArticle);

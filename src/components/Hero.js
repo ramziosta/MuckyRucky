@@ -28,8 +28,8 @@ export default function Hero() {
       <div class="bg-image"></div>
 
       <div class="bg-text">
-        <h1>I am Emilie Pons</h1>
-        <h2>Journalist and Content Creator</h2>
+        <h1>We are Emilie & Jessie</h1>
+        <h2>Journalists and Content Creators</h2>
       </div>
 
       <div
@@ -37,10 +37,10 @@ export default function Hero() {
         style={{ padding: "128px 16px" }}
         id="about"
       >
-        <h2 className="w3-center">Welcome to my website</h2>
+        <h2 className="w3-center">Welcome to Our website</h2>
         <hr />
         <p className="w3-center w3-large">
-          My work has been feartured in top media outlets like NPR, DW, Variety,
+          Our work has been feartured in top media outlets like NPR, DW, Variety,
           PRI World and many more...
         </p>
 
@@ -68,7 +68,7 @@ export default function Hero() {
         >
           <div className="w3-row-padding">
             <div className="w3-col center text">
-              <h2>Great stories make the world go round. My guests are Insightful,  Inspiring and Empowering.</h2>
+              <h2>Great stories make the world go round. Our guests are Insightful,  Inspiring and Empowering.</h2>
               <h4 style={{color:"rgb(12,140,160)"}}>Read.Listen.Watch.Think.Feel. </h4>
               
               <p>

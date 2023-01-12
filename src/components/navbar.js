@@ -14,8 +14,8 @@ const menuItems = [
     description: "",
   },
   {
-    name: "About Me",
-    path: "AboutMe",
+    name: "About",
+    path: "About",
     description: "",
   },
   {
@@ -29,7 +29,7 @@ const menuItems = [
     path: "Contact",
     description: "",
   }, {
-    name: "My Blogs",
+    name: "Blogs",
     path: "Blog",
     description: "Blog",
   },
@@ -49,7 +49,7 @@ function NavBar() {
       
         <div className="container-fluid ms-5">
           <NavLink to="/" className="navbar-brand fs-1  ms-4 fw-bold logo"  style={{ color:"rgba(0,0,0,0)", webkitTextStroke: ".5px rgb(254, 79, 164)"}}>
-            Emilie Pons
+            Emilie & Jessie
           </NavLink>
           <button
             className="navbar-toggler"

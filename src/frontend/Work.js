@@ -14,7 +14,7 @@ function Work() {
           <div >
           <div className="w3-padding-32 w3-content" id="portfolio">
         <h1 style={{ color: "rgb(254, 79, 164)", marginTop: "100px" }}>
-         My work
+         Our work
         </h1>
         <hr className="w3-opacity" />
         <p className="w3-wide">Music.Culture.Politics</p>
@@ -31,7 +31,7 @@ function Work() {
             <div className="work-header">
               <div id="intro" className="p-5 text-center bg-light">
                 <h2 className="mb-3 work-title">
-                  My complete archive of published work
+                  Our complete archive of published work
                 </h2>
                 <p className="mb-3">
                   I have been wrinting since the early 2000, I have a large and
