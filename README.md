@@ -16,7 +16,8 @@ To get started with the app, simply follow these steps:
 
 Enjoy creating and publishing your work with this app!
 
-<iframe width="560" height="315" src="https://www.loom.com/share/4c85e5e91bc04751aaaf454dab31c56d" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://cdn.loom.com/sessions/thumbnails/4c85e5e91bc04751aaaf454dab31c56d-with-play.gif)](https://www.loom.com/share/4c85e5e91bc04751aaaf454dab31c56d)
+
 
 
 ## MIT License
